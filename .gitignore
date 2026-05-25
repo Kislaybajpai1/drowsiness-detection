@@ -1,0 +1,5 @@
+.vscode/
+drowsy_snapshots/
+sessions/
+*.pyc
+__pycache__/
